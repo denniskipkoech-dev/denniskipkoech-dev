@@ -69,3 +69,54 @@
 </div>
 
 ---
+
+
+<!-- TECHNICAL STACK -->
+
+<div align="center">
+
+# <span>⚡ TECHNICAL STACK & TOOLING</span>
+
+*Technologies I use, build with, and continuously explore.*
+
+</div>
+
+### `01 // PROGRAMMING LANGUAGES`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+</p>
+
+### `02 // FRAMEWORKS & DEVELOPMENT`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs&theme=dark" />
+</p>
+
+### `03 // DATABASES`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql&theme=dark" />
+</p>
+
+### `04 // DEVELOPMENT TOOLS`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
+
+### `05 // CURRENT LEARNING PATH`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend_Development-00E5FF?style=for-the-badge&logo=serverfault&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-00E5FF?style=for-the-badge&logo=kalilinux&logoColor=black"/>
+</p>
+
+---
+
+<div align="center">
+
+`// ALWAYS LEARNING. ALWAYS BUILDING.`
+
+</div>
