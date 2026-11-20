@@ -16,3 +16,56 @@
 </div>
 
 ---
+
+
+<!-- DEVELOPER TERMINAL -->
+
+<div align="center">
+
+## <code>root@dennis:~#</code> Developer Profile
+
+<img src="https://img.shields.io/badge/SYSTEM-DENNIS--KIPKOECH-00E5FF?style=for-the-badge&labelColor=080D1A"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge&labelColor=080D1A"/>
+
+</div>
+
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│  ● ● ●                 DENNIS@DEVELOPER               ONLINE │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   ██████╗ ███████╗███╗   ██╗███╗   ██╗██╗███████╗             │
+│   ██╔══██╗██╔════╝████╗  ██║████╗  ██║██║██╔════╝             │
+│   ██║  ██║█████╗  ██╔██╗ ██║██╔██╗ ██║██║███████╗             │
+│   ██║  ██║██╔══╝  ██║╚██╗██║██║╚██╗██║██║╚════██║             │
+│   ██████╔╝███████╗██║ ╚████║██║ ╚████║██║███████║             │
+│   ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝╚══════╝             │
+│                                                              │
+│   > dennis --role                                            │
+│     Software Engineering Student @ MMU Kenya                 │
+│                                                              │
+│   > dennis --stack                                           │
+│     Python | JavaScript | HTML | CSS | SQL                   │
+│                                                              │
+│   > dennis --tools                                           │
+│     Git | GitHub | VS Code | SQLite                          │
+│                                                              │
+│   > dennis --learning                                        │
+│     Backend Development | AI | Cybersecurity                 │
+│                                                              │
+│   > dennis --mission                                         │
+│     Building technology that creates opportunities.         │
+│                                                              │
+│   > dennis --status                                          │
+│     Learning. Building. Innovating.                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+**// CODE. LEARN. BUILD. REPEAT.**
+
+</div>
+
+---
