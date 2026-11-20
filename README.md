@@ -244,3 +244,35 @@ I believe we can go further when we learn, build, and grow together.
 
 ---
 
+
+<!-- CONNECT WITH ME -->
+
+<div align="center">
+
+# 🌐 CONNECT WITH ME
+
+*Let's connect, collaborate and build something meaningful.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/denniskipkoech-dev)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/denniskipkoech-dev/myportfolio)
+
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:denniskipkoech2006@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### `// PROFILE STATUS: ONLINE`
+
+**Thanks for visiting my profile.**
+
+<img src="https://komarev.com/ghpvc/?username=denniskipkoech-dev&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+*© 2026 Dennis Kipkoech | Designed with curiosity and code.*
+
+</div>
