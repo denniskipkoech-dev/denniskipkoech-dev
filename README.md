@@ -120,3 +120,32 @@
 `// ALWAYS LEARNING. ALWAYS BUILDING.`
 
 </div>
+
+
+<!-- GITHUB ANALYTICS -->
+
+<div align="center">
+
+# 📊 GITHUB ANALYTICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=denniskipkoech-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00E5FF&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denniskipkoech-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00E5FF&text_color=FFFFFF" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=denniskipkoech-dev&theme=tokyonight&hide_border=true&background=080D1A&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `// CONTRIBUTION ACTIVITY`
+
+[![Dennis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denniskipkoech-dev&bg_color=080D1A&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true)](https://github.com/denniskipkoech-dev)
+
+</div>
+
+---
