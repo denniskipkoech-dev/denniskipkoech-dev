@@ -199,3 +199,48 @@ A personal portfolio showcasing my software engineering journey, technical skill
 </div>
 
 ---
+
+
+<!-- ABOUT ME -->
+
+<div align="center">
+
+# 👨‍💻 ABOUT THE DEVELOPER
+
+</div>
+
+```yaml
+name: Dennis Kipkoech
+role: Software Engineering Student
+institution: Multimedia University of Kenya
+
+interests:
+  - Software Development
+  - Backend Engineering
+  - Artificial Intelligence
+  - Cybersecurity
+  - Problem Solving
+
+currently_learning:
+  - Python
+  - JavaScript
+  - Database Systems
+  - Backend Development
+
+philosophy: "Learn continuously. Build fearlessly. Grow together."
+
+mission: >
+  Using technology to create opportunities, solve real-world
+  problems, and make digital skills accessible to more people.
+```
+
+## 🎯 MY DEVELOPER MISSION
+
+I believe technology should create opportunities, not barriers.
+
+My goal is to grow into a skilled software engineer while building solutions that solve real-world problems and empower others through technology.
+
+I believe we can go further when we learn, build, and grow together.
+
+---
+
