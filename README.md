@@ -149,3 +149,53 @@
 </div>
 
 ---
+
+
+<!-- FEATURED PROJECTS -->
+
+<div align="center">
+
+# 🚀 FEATURED PROJECTS
+
+*Turning ideas into functional software.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🅿️ Modern Parking Management System
+
+A Python-based parking management application built to manage vehicle registration, parking spaces and parking records.
+
+**Tech Stack:** Python · Tkinter · SQLite
+
+[⚡ VIEW PROJECT](https://github.com/denniskipkoech-dev/modernparking)
+
+</td>
+<td width="50%">
+
+### 🌐 Personal Developer Portfolio
+
+A personal portfolio showcasing my software engineering journey, technical skills and development projects.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+[⚡ VIEW PROJECT](https://github.com/denniskipkoech-dev/myportfolio)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+**MORE PROJECTS IN DEVELOPMENT...**
+
+`BUILDING THE FUTURE, ONE COMMIT AT A TIME.`
+
+</div>
+
+---
