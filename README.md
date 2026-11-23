@@ -45,7 +45,7 @@
 │     Software Engineering Student @ MMU Kenya                 │
 │                                                              │
 │   > dennis --stack                                           │
-│     Python | JavaScript | HTML | CSS | SQL                   │
+│     Python | JavaScript | HTML | CSS | SQL | Typescript                   │
 │                                                              │
 │   > dennis --tools                                           │
 │     Git | GitHub | VS Code | SQLite                          │
