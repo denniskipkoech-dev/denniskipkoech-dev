@@ -48,7 +48,7 @@
 │     Python | JavaScript | HTML | CSS | SQL | Typescript                   │
 │                                                              │
 │   > dennis --tools                                           │
-│     Git | GitHub | VS Code | SQLite                          │
+│     Git | GitHub | VS Code | SQLite | Kali Linux                         │
 │                                                              │
 │   > dennis --learning                                        │
 │     Backend Development | AI | Cybersecurity                 │
